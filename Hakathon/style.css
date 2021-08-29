@@ -1,0 +1,11 @@
+.img-display{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-evenly;
+  margin:10px 0;
+}
+.imgView{
+  border:2px solid gray;
+  box-shadow:0 0 10px rgba(0,0,0,0.5);
+  margin:10px 0;
+}
